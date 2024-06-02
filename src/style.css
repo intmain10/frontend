@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+header.jumbotron {
+    background: #c73003;
+    color: white;
+}
+
+footer {
+    background: #f8f9fa;
+}
